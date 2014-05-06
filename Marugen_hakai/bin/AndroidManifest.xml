@@ -1,0 +1,97 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.jp.marugen.hakai"
+    android:versionCode="3"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    
+    <!-- AppC Core Setting Start -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- AppC Core Setting End -->
+    
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hakaiicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="jp.co.marugen.hakai.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="jp.co.marugen.hakai.GameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jp.co.marugen.hakai.EndActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jp.co.marugen.hakai.SettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jp.co.marugen.hakai.TopActivity"
+            android:screenOrientation="portrait" />
+        
+        
+        <!-- AppC Core Setting Start -->
+        <meta-data
+            android:name="appc_media_key"
+            android:value="4ec0be3f96b7ebebd0d3675e0750546a3b4c4fe3" />
+    
+        <activity
+            android:name="net.app_c.cloud.sdk.AppCAdActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|uiMode|touchscreen"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="net.app_c.cloud.sdk.AppCRecoveryActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|uiMode|touchscreen"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="net.app_c.cloud.sdk.AppCAgreementActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|uiMode|touchscreen"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <!-- AppC Core Setting End -->
+        
+         <!-- AppC Core Setting Start -->
+        <!-- warningが出ますが android:exportedの記述はしないでください -->
+        <receiver android:name="net.app_c.cloud.sdk.AppCIDReceiver" >
+            <intent-filter>
+                <action android:name="jp.co.cayto.appc.sdk.android.remote.command.gid.search" />
+                <action android:name="jp.co.cayto.appc.sdk.android.remote.command.gid.set" />
+                <action android:name="jp.co.cayto.appc.sdk.android.remote.command.gid.remove" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="net.app_c.cloud.sdk.AppCPkgReceiver"
+            android:enabled="true"
+            android:exported="false"
+            android:label="BootStrap" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+            
+                <data android:scheme="package" >
+                </data>
+            </intent-filter>
+        </receiver>
+        <!-- AppC Core Setting End -->
+     
+
+    </application>
+
+</manifest>
