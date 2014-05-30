@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animals</key>
+	<array>
+		<string>Animals on the Farm</string>
+		<string>Animals</string>
+		<string>Fish</string>
+		<string>Animals in a Zoo</string>
+		<string>Birds</string>
+		<string>Cat Breeds</string>
+		<string>Deadliest Snakes in the World</string>
+		<string>Dog Breeds</string>
+		<string>Insects</string>
+		<string>Pets</string>
+		<string>Bugs</string>
+	</array>
+	<key>Body Care</key>
+	<array>
+		<string>Cosmetics</string>
+		<string>Makeup</string>
+		<string>Manicure Instruments</string>
+		<string>Shaving</string>
+	</array>
+	<key>Books and Things to read</key>
+	<array>
+		<string>Parts of a Book</string>
+		<string>Types of Books</string>
+		<string>Newspaper</string>
+	</array>
+	<key>Buildings</key>
+	<array>
+		<string>Buildings and Places</string>
+		<string>Castles</string>
+	</array>
+	<key>Business English</key>
+	<array>
+		<string>Business English Nouns</string>
+		<string>Business English Verbs</string>
+		<string>Computer</string>
+		<string>Jobs</string>
+		<string>Job Application</string>
+	</array>
+	<key>Calendar</key>
+	<array>
+		<string>Months</string>
+		<string>Chinese Calendar</string>
+		<string>Zodiac Signs</string>
+	</array>
+	<key>Cars</key>
+	<array>
+		<string>Car Parts (British English)</string>
+		<string>Car Parts (American English)</string>
+		<string>Outside of a Car</string>
+		<string>Under the Hood of a Car</string>
+		<string>Cars Verbs</string>
+		<string>Inside of a Car</string>
+	</array>
+	<key>Celebrations</key>
+	<array>
+		<string>Party Names</string>
+	</array>
+	<key>City</key>
+	<array>
+		<string>Downtown</string>
+		<string>Post Office</string>
+		<string>Bank</string>
+		<string>City</string>
+	</array>
+	<key>Clothes</key>
+	<array>
+		<string>Clothes</string>
+		<string>Men Clothes</string>
+		<string>Sewing</string>
+		<string>Shoes and Footwear</string>
+		<string>Headgear and Hats</string>
+		<string>Natural Materials Used in Clothes</string>
+		<string>Underwear</string>
+	</array>
+	<key>Colors</key>
+	<array>
+		<string>The Basic Colors (US) gray</string>
+		<string>Colors (American Spellings)</string>
+	</array>
+	<key>Computers</key>
+	<array>
+		<string>Computer</string>
+		<string>Networking Computers</string>
+	</array>
+	<key>English to Other Languages</key>
+	<array>
+		<string>Japanese Words Used in English</string>
+	</array>
+	<key>Family</key>
+	<array>
+		<string>Family Members</string>
+		<string>Relatives</string>
+	</array>
+	<key>Eating, Food and Drinks</key>
+	<array>
+		<string>Catering</string>
+		<string>Cuts of Beef</string>
+		<string>Citrus Fruits</string>
+		<string>Dinnerware</string>
+		<string>Fruit</string>
+		<string>Grains</string>
+		<string>Kitchen Knifes</string>
+		<string>Pasta Types</string>
+		<string>Breads</string>
+		<string>Condiments</string>
+		<string>Desserts</string>
+		<string>Drinks and Beverages</string>
+		<string>Food</string>
+		<string>Meat</string>
+		<string>Restaurant</string>
+		<string>Salad Dressing</string>
+		<string>Vegetables</string>
+		<string>Dairy Products</string>
+		<string>Food Pyramid</string>
+		<string>Supermarket Packaging</string>
+	</array>
+	<key>Gardening and Plants</key>
+	<array>
+		<string>Bulb Vegetables</string>
+		<string>Garden Tools</string>
+		<string>Leaf Vegetables</string>
+		<string>Root Vegetables</string>
+		<string>Seed Vegetables</string>
+		<string>Fruit Trees</string>
+		<string>Trees</string>
+		<string>Flowers</string>
+		<string>Gardening Verbs</string>
+	</array>
+	<key>Geography</key>
+	<array>
+		<string>Continents</string>
+		<string>Geography</string>
+	</array>
+	<key>Grammar &amp; English Usage</key>
+	<array>
+		<string>Adverbs of Cause</string>
+		<string>Adverbs of Place</string>
+		<string>Adverbs of Quantity</string>
+		<string>Adverbs of Time</string>
+		<string>Adverbs standing before verbs</string>
+		<string>Compound Words</string>
+		<string>Frequency Words and Phrases</string>
+		<string>Prepositions</string>
+		<string>Punctuation Marks</string>
+	</array>
+	<key>Health</key>
+	<array>
+		<string>Dental Care</string>
+		<string>Injuries</string>
+		<string>Aches and Pains</string>
+		<string>People in Hospitals</string>
+	</array>
+	<key>Holidays</key>
+	<array>
+		<string>Holidays</string>
+		<string>Christmas - General</string>
+		<string>Food at Christmas</string>
+		<string>Halloween</string>
+		<string>Saint Patrick Day</string>
+		<string>Valentine Day</string>
+	</array>
+	<key>House</key>
+	<array>
+		<string>Building Material</string>
+		<string>House</string>
+		<string>Refrigerator</string>
+		<string>Rooms and Places in a House</string>
+		<string>Types of Houses</string>
+		<string>Types of Roofs</string>
+		<string>Woodburning Stoves</string>
+		<string>Furniture in a House</string>
+		<string>Things in a House</string>
+	</array>
+	<key>Occupations and Professions</key>
+	<array>
+		<string>Catering</string>
+		<string>Job Application</string>
+		<string>Jobs</string>
+		<string>Fire Fighting</string>
+	</array>
+	<key>Law</key>
+	<array>
+		<string>Crime Verbs</string>
+		<string>Crime</string>
+		<string>Crimes</string>
+		<string>Criminals</string>
+		<string>Justice System</string>
+	</array>
+	<key>Medical English</key>
+	<array>
+		<string>Body</string>
+		<string>Human Teeth</string>
+		<string>Head</string>
+		<string>Human Body</string>
+		<string>Internal Organs</string>
+		<string>Parts of the Hand</string>
+		<string>Injuries</string>
+		<string>Smoking</string>
+		<string>Aches and Pains</string>
+		<string>People in Hospitals</string>
+	</array>
+	<key>Math</key>
+	<array>
+		<string>Shapes</string>
+		<string>Math Angles</string>
+		<string>Measuring Time</string>
+		<string>Numbers 1-10</string>
+		<string>Numbers 11-20</string>
+		<string>Numbers 20-40</string>
+		<string>Measurements</string>
+	</array>
+	<key>Miscellaneous</key>
+	<array>
+		<string>Smoking</string>
+		<string>Aircraft, Kinds of ~</string>
+		<string>Paying Bills</string>
+		<string>Stationery</string>
+		<string>Imaginary People and Animals</string>
+		<string>Newspaper</string>
+		<string>Telephone</string>
+		<string>Tests</string>
+	</array>
+	<key>Money</key>
+	<array>
+		<string>Paying Bills</string>
+		<string>Money Used in the USA</string>
+	</array>
+	<key>Music</key>
+	<array>
+		<string>Music</string>
+		<string>Music - Brass Instruments</string>
+		<string>Musical Instruments</string>
+		<string>Music - Percussion Instruments</string>
+		<string>Music - Woodwind Instruments</string>
+		<string>Symphony Orchestra Instruments</string>
+	</array>
+	<key>Office</key>
+	<array>
+		<string>Stationery</string>
+		<string>Computer</string>
+		<string>Telephone</string>
+	</array>
+	<key>People</key>
+	<array>
+		<string>Adjectives for People</string>
+		<string>Cowboys</string>
+		<string>Criminals</string>
+		<string>People in Education</string>
+		<string>People in Hospitals</string>
+	</array>
+	<key>Parts</key>
+	<array>
+		<string>Bicycle Parts</string>
+		<string>Gasoline Engine Parts</string>
+		<string>Motorcycle Parts</string>
+		<string>Parts of a Book</string>
+	</array>
+	<key>School</key>
+	<array>
+		<string>Degrees in Education</string>
+		<string>Education</string>
+		<string>School Rooms</string>
+		<string>School Subjects</string>
+		<string>People in a School</string>
+		<string>Types of Schools</string>
+		<string>University Subjects</string>
+		<string>Tests</string>
+	</array>
+	<key>Science</key>
+	<array>
+		<string>Gases</string>
+		<string>Liquids</string>
+		<string>Metals</string>
+		<string>Materials</string>
+	</array>
+	<key>Seasons</key>
+	<array>
+		<string>Winter</string>
+	</array>
+	<key>Security</key>
+	<array>
+		<string>Crimes</string>
+		<string>Weapons</string>
+	</array>
+	<key>Sports</key>
+	<array>
+		<string>Baseball</string>
+		<string>Baseball Pitches</string>
+		<string>Baseball Positions</string>
+		<string>Baseball Verbs</string>
+		<string>Football Positions</string>
+		<string>Olympic Sports</string>
+		<string>Sports Played with a Ball</string>
+		<string>Sports</string>
+		<string>Sportswear</string>
+		<string>Swimming Strokes</string>
+		<string>Swimming</string>
+	</array>
+	<key>Time</key>
+	<array>
+		<string>Days of the Week</string>
+		<string>Months</string>
+		<string>Zodiac Signs</string>
+		<string>Chinese Calendar</string>
+	</array>
+	<key>Tools</key>
+	<array>
+		<string>Carpentry Tools</string>
+		<string>Farm Machinery</string>
+		<string>Ladders</string>
+		<string>Plumbing Tools</string>
+		<string>Woodworking Tools</string>
+	</array>
+	<key>Transportation</key>
+	<array>
+		<string>Aircraft</string>
+		<string>Land Transportation</string>
+		<string>Types of Ships</string>
+		<string>Vehicles</string>
+		<string>Water Transportation</string>
+	</array>
+	<key>Travel</key>
+	<array>
+		<string>Airport Departure and Arrival</string>
+		<string>Harbor</string>
+		<string>Hotel</string>
+		<string>Luggage</string>
+	</array>
+	<key>Weather</key>
+	<array>
+		<string>Weather</string>
+		<string>Weather (Short List)</string>
+	</array>
+	<key>Word Ending</key>
+	<array>
+		<string>Words Ending in ~ful</string>
+		<string>Words Ending in ~less</string>
+	</array>
+	<key>Perhaps Not So Useful</key>
+	<array>
+		<string>Imaginary People and Animals</string>
+	</array>
+</dict>
+</plist>
